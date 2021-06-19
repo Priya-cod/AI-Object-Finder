@@ -37,3 +37,7 @@ canvas
     margin-top: 130px;
     box-shadow: 5px 5px 5px white;
 }
+
+#input1{
+    width: 40%;
+}
